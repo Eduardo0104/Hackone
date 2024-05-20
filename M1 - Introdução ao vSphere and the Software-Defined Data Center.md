@@ -1,6 +1,6 @@
 # O QUE É UM DATACENTER?
 
-- um data center é uma instalação física que as empresas usam para hospedar aplicativos e dados essenciais.
+- Um datacenter, ou centro de dados, é uma instalação física utilizada para abrigar sistemas computacionais e componentes associados, como sistemas de telecomunicações e armazenamento. Ele fornece a infraestrutura necessária para a operação, gerenciamento e armazenamento de grandes volumes de dados e informações.
 
 # O QUE É UM DATACENTER VIRTUALIZADO?
 
