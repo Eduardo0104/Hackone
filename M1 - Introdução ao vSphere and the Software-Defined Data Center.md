@@ -1,8 +1,8 @@
-# O QUE É UM DATACENTER?
+# O que é um DataCenter?
 
 - Um datacenter, ou centro de dados, é uma instalação física utilizada para abrigar sistemas computacionais e componentes associados, como sistemas de telecomunicações e armazenamento. Ele fornece a infraestrutura necessária para a operação, gerenciamento e armazenamento de grandes volumes de dados e informações.
 
-# O QUE É UM DATACENTER VIRTUALIZADO?
+# O que é um DataCenter Virtualizado?
 
 - A virtualização de data center consiste em utilizarmos um servidor único e compartimentá-lo em várias máquinas virtuais
 a partir de um programa chamado Hypervisor. Basicamente, estamos distribuindo os recursos necessários entre servidores
@@ -19,7 +19,7 @@ armazenamento são usados para armazenar essa mercadoria valiosa.
 Recursos de computação => Os aplicativos são os motores de um data center. Esses servidores fornecem o 
 processamento, a memória, o armazenamento local e a conectividade de rede que acionam os aplicativos.
 
-# ipos de Virtualização
+# Tipos de Virtualização:
 
 - Server Virtualization (ESXI) => Refere-se à partição de um servidor físico em vários servidores virtuais,
 cada um executando de forma independente. Esta é uma aplicação comum da virtualização de hardware e é
