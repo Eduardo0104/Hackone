@@ -1,6 +1,8 @@
 # O que é um DataCenter?
 
-- Um datacenter, ou centro de dados, é uma instalação física utilizada para abrigar sistemas computacionais e componentes associados, como sistemas de telecomunicações e armazenamento. Ele fornece a infraestrutura necessária para a operação, gerenciamento e armazenamento de grandes volumes de dados e informações.
+- Um datacenter, ou centro de dados, é uma instalação física utilizada para abrigar sistemas
+computacionais e componentes associados, como sistemas de telecomunicações e armazenamento. Ele
+fornece a infraestrutura necessária para a operação, gerenciamento e armazenamento de grandes volumes de dados e informações.
 
 # O que é um DataCenter Virtualizado?
 
@@ -29,10 +31,10 @@ amplamente utilizada para melhorar a eficiência e a utilização de servidores.
 segmentação e a administração mais eficiente de recursos de rede. Exemplos incluem VLANs (Virtual Local
 Area Networks) e SDN (Software-Defined Networking).
 
-- Storage Virtualization () => Abstrai o armazenamento físico de forma que ele apareça como um recurso
+- Storage Virtualization (VSaw) => Abstrai o armazenamento físico de forma que ele apareça como um recurso
 unificado e centralizado, mesmo que esteja distribuído em diferentes dispositivos físicos. Exemplos
 incluem SAN (Storage Area Network) e NAS (Network Attached Storage).
 
-- Desktop Virtualization () => Permite que sistemas operacionais de desktop sejam hospedados em um servidor
+- Desktop Virtualization (VDI) => Permite que sistemas operacionais de desktop sejam hospedados em um servidor
 central e acessados remotamente por usuários. Exemplos incluem Citrix Virtual Apps and Desktops, VMware Horizon
 e Microsoft Remote Desktop Services.
