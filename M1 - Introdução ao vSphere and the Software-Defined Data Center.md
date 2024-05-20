@@ -10,13 +10,13 @@ físicos e virtuais para conseguirmos extrair o melhor de cada um deles.
 
 # Quais são os principais componentes de um data center?
 
-Infraestrutura de rede => Isso conecta servidores (físicos e virtualizados), serviços de data center,
+- Infraestrutura de rede => Isso conecta servidores (físicos e virtualizados), serviços de data center,
 armazenamento e conectividade externa aos locais dos usuários finais.
 
-Infraestrutura de armazenamento => Os dados são o combustível do data center moderno. Os sistemas de
+- Infraestrutura de armazenamento => Os dados são o combustível do data center moderno. Os sistemas de
 armazenamento são usados para armazenar essa mercadoria valiosa.
 
-Recursos de computação => Os aplicativos são os motores de um data center. Esses servidores fornecem o 
+- Recursos de computação => Os aplicativos são os motores de um data center. Esses servidores fornecem o 
 processamento, a memória, o armazenamento local e a conectividade de rede que acionam os aplicativos.
 
 # Tipos de Virtualização:
