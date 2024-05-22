@@ -1,0 +1,17 @@
+# VMware ESXi
+O VMware ESXi (Elastic Sky X Integrated) é um hypervisor do tipo 1 que permite criar e gerenciar máquinas
+virtuais (VMs) em um servidor físico. Ele é instalado diretamente no hardware do servidor, agindo como
+uma camada intermediária entre o hardware físico e as VMs.
+
+# Componentes do VMware ESXi
+- VMkernel: O VMkernel é o núcleo do sistema operacional ESXi e faz parte do hypervisor. Ele fornece recursos
+essenciais de gerenciamento e suporte para as VMs, incluindo gerenciamento de recursos de hardware,
+isolamento, segurança, gestão de processos e tarefas, virtualização de dispositivos, rede e armazenamento
+virtualizados, além de suporte para alta disponibilidade e recuperação.
+
+- VMM (Virtual Machine Monitor): O VMM é outra parte do hypervisor. Ele é responsável por criar e gerenciar o
+ambiente virtual no qual as VMs são executadas. Isso inclui a execução e monitoramento das VMs, garantindo
+o isolamento, emulação de hardware e alocação de recursos necessários para o funcionamento das máquinas virtuais.
+
+Juntos, o VMkernel e o VMM formam o hypervisor do VMware ESXi, proporcionando as funcionalidades necessárias
+para a virtualização de servidores e o funcionamento das máquinas virtuais em um ambiente de data center.
